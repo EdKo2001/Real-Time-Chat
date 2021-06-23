@@ -1,4 +1,4 @@
-# Listy
+# Real Time Chat
 React + Firebase + Context API
 
 ### Used technology
